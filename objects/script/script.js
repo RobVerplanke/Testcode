@@ -20,12 +20,12 @@
 
 // const person = {
 //     name: {
-//         first: "Rob",
-//         last: "Verplanke"
+//         first: "Hans",
+//         last: "Zimmer"
 //     },
-//     age: 40,
-//     place: "Groningen",
-//     zipCode: "9716 CE",
+//     age: 54,
+//     place: "Berlin",
+//     zipCode: "10318",
 //     "likes football": true,
 //     admin: true,
 //     bio: function (){
